@@ -1,0 +1,1 @@
+print("hello world this is me here again  after a long time break where i was learninglinux basics again to get back ")
